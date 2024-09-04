@@ -1,5 +1,5 @@
 
 ConnectionStrings:
-  Default: "Server=localhost,14444;Database=TemplateDatabase;User Id=${sqlserver.default.userId};Password=${sqlserver.default.password};Connection Timeout=5;MultiSubnetFailover=False;Encrypt=False;"
+  Default: "Server=localhost,13333;Database=TemplateDatabase;User Id=${sqlserver.default.userId};Password=${sqlserver.default.password};Connection Timeout=5;MultiSubnetFailover=False;Encrypt=False;"
   D300W19V: "Server=localhost,1434;Database=TemplateDatabase;User Id=sa;Password=Admin789;Connection Timeout=5;MultiSubnetFailover=False;Encrypt=False;"
   D250W19V: "Server=localhost,1434;Database=TemplateDatabase;User Id=sa;Password=Admin789;Connection Timeout=5;MultiSubnetFailover=False;Encrypt=False;"
